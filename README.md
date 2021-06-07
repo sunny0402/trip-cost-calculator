@@ -1,5 +1,11 @@
 ## About
 
+REST API with Express.js and MongoDB.
+
+Run databases in the cloud: https://railway.app/
+
+## Endpoints
+
 GET: http://localhost:3000/trips
 
 ```
